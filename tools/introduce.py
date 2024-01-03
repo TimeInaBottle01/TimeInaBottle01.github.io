@@ -14,7 +14,7 @@ for scene in list((basedir).glob("*")):
     print(scene)
 
     text = f"""
-
+在线查看 https://timeinabottle01.github.io/
     
 middle.ply
 色彩 顶点色 sRGB
