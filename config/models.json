@@ -1,0 +1,65 @@
+{
+  "rootDir": "models",
+  "models": [
+    {
+      "name": "0000000001",
+      "file": "0000000001/mesh.glb",
+      "thumbnail": "0000000001/cover.png"
+    },
+    {
+      "name": "0000000002",
+      "file": "0000000002/mesh.glb",
+      "thumbnail": "0000000002/cover.png"
+    },
+    {
+      "name": "0000100001",
+      "file": "0000100001/mesh.glb",
+      "thumbnail": "0000100001/cover.png"
+    },
+    {
+      "name": "0000100002",
+      "file": "0000100002/mesh.glb",
+      "thumbnail": "0000100002/cover.png"
+    },
+    {
+      "name": "0000100003",
+      "file": "0000100003/mesh.glb",
+      "thumbnail": "0000100003/cover.png"
+    },
+    {
+      "name": "0000200001",
+      "file": "0000200001/mesh.glb",
+      "thumbnail": "0000200001/cover.png"
+    },
+    {
+      "name": "0000300001",
+      "file": "0000300001/mesh.glb",
+      "thumbnail": "0000300001/cover.png"
+    },
+    {
+      "name": "0000300002",
+      "file": "0000300002/mesh.glb",
+      "thumbnail": "0000300002/cover.png"
+    },
+    {
+      "name": "0000300003",
+      "file": "0000300003/mesh.glb",
+      "thumbnail": "0000300003/cover.png"
+    },
+    {
+      "name": "0000400001",
+      "file": "0000400001/mesh.glb",
+      "thumbnail": "0000400001/cover.png"
+    },
+    {
+      "name": "0000500001",
+      "file": "0000500001/mesh.glb",
+      "thumbnail": "0000500001/cover.png"
+    },
+    {
+      "name": "0000500002",
+      "file": "0000500002/mesh.glb",
+      "thumbnail": "0000500002/cover.png"
+    }
+  ]
+}
