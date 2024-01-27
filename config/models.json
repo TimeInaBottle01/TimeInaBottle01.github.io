@@ -12,6 +12,11 @@
       "thumbnail": "0000000002/cover.png"
     },
     {
+      "name": "0000000003",
+      "file": "0000000003/mesh.glb",
+      "thumbnail": "0000000003/cover.png"
+    },
+    {
       "name": "0000100001",
       "file": "0000100001/mesh.glb",
       "thumbnail": "0000100001/cover.png"
