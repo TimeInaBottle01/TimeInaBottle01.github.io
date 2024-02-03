@@ -72,6 +72,11 @@
       "thumbnail": "0000300005/cover.png"
     },
     {
+      "name": "0000300006",
+      "file": "0000300006/mesh.glb",
+      "thumbnail": "0000300006/cover.png"
+    },
+    {
       "name": "0000400001",
       "file": "0000400001/mesh.glb",
       "thumbnail": "0000400001/cover.png"
