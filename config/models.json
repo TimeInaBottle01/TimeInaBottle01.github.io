@@ -105,6 +105,11 @@
       "name": "0000600001",
       "file": "0000600001/mesh.glb",
       "thumbnail": "0000600001/cover.png"
+    },
+    {
+      "name": "0000700001",
+      "file": "0000700001/mesh.glb",
+      "thumbnail": "0000700001/cover.png"
     }
   ]
 }
